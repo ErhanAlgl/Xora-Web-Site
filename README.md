@@ -4,8 +4,6 @@ Xora is a **Modern UI/UX SaaS website** developed using **React.js** and **Tailw
 
 [View Screenshot](public/screenshot.png)
 
-[Live Demo](https://example.com/live-demo)
-
 ---
 
 ## 🚀 Tech Stack
@@ -54,7 +52,7 @@ Guarantees flawless **responsiveness** across all devices and screen sizes.
 
 2. Navigate to the project directory:
    ```bash
-   cd xora
+   cd Xora Web Site
    ```
 
 3. Install dependencies:
