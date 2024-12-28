@@ -4,6 +4,8 @@ Xora is a **Modern UI/UX SaaS website** developed using **React.js** and **Tailw
 
 [View Screenshot](public/screenshot.png)
 
+[Live Demo](https://xora-app-sass.netlify.app/)
+
 ---
 
 ## 🚀 Tech Stack
